@@ -1,0 +1,2 @@
+# JSONファイルを読み込んでリスト表示する(サブアイテム表示)
+[ListViewのサブアイテムをsimple_list_item_2を用いて使用するAndroidサンプルアプリ](http://tech.pjin.jp/blog/2013/02/06/android%E3%80%80listview・サブアイテム・simple_list_item_2%E3%80%80【とっても簡単なandro/)
